@@ -4,11 +4,10 @@
 - company: Focus Edumatics Pvt Ltd
   position: Online Tutor - Math
   duration: Nov 2022 - Present
-  #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <li> Motivating students in a positive learning environment to build academic confidence. </li> <li> Analyzing student progress to adjust lesson planning for improvement. </li> <li> Collaborating with students to complete homework assignments, identify lagging skills, and correct weaknesses. </li> <li> Planning lessons for the allotted time to strengthen weak subjects and build skills. </li>
 
 # Focus Edumatics Trainee
 - company: Focus Edumatics Pvt Ltd
   position: Online Tutor Trainee
   duration:  Aug 2022 - Sept 2022
-  #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+  summary: <li> 45 -day training for the role of Online Mathematics Tutor that concluded with an exam </li> <Topics included Grade 5-12 Mathematics lessons and Advanced English Communication Skills </li> <li> Succesfully passed the certification exam and joined as full-time tutor </li> 
