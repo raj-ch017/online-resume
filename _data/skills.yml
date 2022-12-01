@@ -1,12 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+# Python
+- skill: Python 3 Scripting 
+  description: <ul class="resume-item-list"><li>Experience with Data Structures, Algorithmic Complexity</li>
+  <li>Data Processing with Numpy, Pandas</li>
+  <li>Data Visualization with Seaborn, Matplotlib</li></ul>
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Statistical Analysis
+  description: <ul class = "resume-item-list">
+  <li>Descriptive and Inferential Statistics</li>
+  <li> Bayesian Statistics</li>
+  <li> Regression Analysis</li>
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- #skill: Digital content development and creation
+  #description: Copy writing, graphic design, web design, front-end web development, print design
