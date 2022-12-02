@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Rajdeep's Online Resume"
+#description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -20,7 +20,7 @@ resume_contact_email:           "rajdeep.ch138@gmail.com"
 #resume_contact_telephone:       "555-7334"
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "rajdeep.ch138@gmail.com"
+resume_header_contact_info:     "Mail: @rajdeep.ch138@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am preparing myself with a broad set of tools, and I am being aware of all the ways things are changing as I move through the world and the world changes around me. I am seeking opportunities to deploy the tools that I have accumulated, while simultaneously creating new and efficient tools.</p>"
